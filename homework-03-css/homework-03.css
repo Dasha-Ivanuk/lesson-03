@@ -1,0 +1,17 @@
+h1{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.dashed{
+    text-align: center;
+    border: dashed;
+}
+.sunset{
+    margin: 0 auto;
+    display:block;
+}
+section{
+    text-align:center;
+}
+
